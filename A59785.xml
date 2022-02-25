@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Master St. John his speech in Parliament on Munday the 17th of January concerning the charge of treason then exhibited to the bishops, formerly accused by the House of Commons, Anno Domini, 1641.</title>
+            <title>Speech in Parliament on Munday January the 17th An. Dom. 1641</title>
+            <author>St. John, Oliver, 1598?-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59785</idno>
+            <idno type="STC">Wing S326</idno>
+            <idno type="STC">ESTC R16581</idno>
+            <idno type="EEBO-CITATION">13620588</idno>
+            <idno type="OCLC">ocm 13620588</idno>
+            <idno type="VID">100836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100836)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 801:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Master St. John his speech in Parliament on Munday the 17th of January concerning the charge of treason then exhibited to the bishops, formerly accused by the House of Commons, Anno Domini, 1641.</title>
+                  <title>Speech in Parliament on Munday January the 17th An. Dom. 1641</title>
+                  <author>St. John, Oliver, 1598?-1673.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100836:1"/>
+            <p>MASTER S<hi rend="sup">t</hi>. <hi>JOHN HIS</hi> SPEECH IN PARLIAMENT On Munday, the 17<hi rend="sup">th</hi>. of <hi>January.</hi>
+            </p>
+            <p>CONCERNING The Charge of Treaſon then exhi<g ref="char:EOLhyphen"/>bited to the BISHOPS, Formerly ac<g ref="char:EOLhyphen"/>cuſed by the Houſe of <hi>Commons, Anno Domini,</hi> 1641.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. B.</hi> in the Yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:100836:2"/>
+            <pb n="1" facs="tcp:100836:2"/>
+            <head>M<hi rend="sup">r</hi>. S<hi rend="sup">t</hi>. IOHN HIS SPEECH IN PARLIAMENT.</head>
+            <opener>
+               <salute>Mr. SPEAKER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Charge of Treaſon which hath beene now read unto theſe Perſons accuſed, is (as I conceive) a ſufficient Confirmation of our former Accuſation; not onely their indeavours to procure their own deſires in an unlawfull and irregular manner but the very Action of their Attempt proves them guilty of treaſon: this treaſon wherwith they ſtand charged is matter of Fact not to bee anſwered by witneſſes or circumſtances, but by anſwering guil<g ref="char:EOLhyphen"/>ty or not; and being proved againſt them, to re<g ref="char:EOLhyphen"/>ceive their ſentence: This manner of proceeding is congruent to the Common Lawes of this Land; from which Parliamentary proceedings in ſuch caſes never derogates.</p>
+            <p>Theſe Perſons ſome of them have wiſely recan<g ref="char:EOLhyphen"/>ted their Fact, and ſubmitted themſelves to this Houſe repreſenting the whole Body Politicke of
+<pb n="2" facs="tcp:100836:3"/> this Kingdome, and the reſt doth yet ſtand in thei errour preſuming to undertake to juſtifie their A<g ref="char:EOLunhyphen"/>ctions: and the chiefeſt inducer of theſe to conti<g ref="char:EOLunhyphen"/>nue their Reſolutions, is generally conceived to<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the now Biſhop of Yorke, late Biſhop of Lincolne. This man <hi>Maſter Speaker,</hi> hath beene well reputed and thought of by moſt of this Kingdome and by this Honourable Houſe inlarged from his long impriſonment formerly indured in the Tower, re<g ref="char:EOLhyphen"/>ſtored to his former Dignity and Honour, admit<g ref="char:EOLhyphen"/>ted to his place in the Lords Houſe; what good then might this Prelate have done to his Countrey ſo well reſpected &amp; favoured by moſt of the Lords, and his vote with them well eſteemed, by his endea<g ref="char:EOLhyphen"/>vours to avert the intentions of the reſt of the Bi<g ref="char:EOLhyphen"/>ſhops, for putting in execution their future wic<g ref="char:EOLhyphen"/>ked Actions, by endeavouring to ſetlle true Reli<g ref="char:EOLhyphen"/>ction and puniſh delinquents in the ſame, he always ſeeming to be the beſt affected of any in theſe times of that function, in places of authority and juriſdi<g ref="char:EOLhyphen"/>ction in the Church. And by endeavouring rightly to informe His Majeſty and his Lords, that did but a little diſfavor the ſame, concerning the Antiquity and purity of the true Proteſtant Religion, the danger and ſinne in innovating the ſame, and not the Antiquity of Biſhops and their power in Eccleſiaſticall cauſes, nay in civill as well as Ec<g ref="char:EOLhyphen"/>cleſiaſticall, that in the firſt their juriſdictio<g ref="char:cmbAbbrStroke">̄</g> was the chiefeſt &amp; higheſt, yea above the <hi>Kings;</hi> that in the ſecond they were in Courts of civil judicature, if by
+<pb n="3" facs="tcp:100836:3"/> the King called thereunto, of equall power with the Privy Counſell and Judges of the Land, nay their Votes muſt be above &amp; againſt them all to paſſe for ſentences and right judgements; no oppoſition or contradiction muſt be againſt them by any of what degree ſoever; nay ſo high and proud were theſe Prelates grown that they dare adve<g ref="char:cmbAbbrStroke">̄</g>ture to abridge &amp; abrogate the Kings royall prerogative in iſſuing forth warrants &amp; proces in their ſeverall Courts, which ever was uſed to be read, <hi>Carolus Dei Gratia &amp;c.</hi> Now muſt be read, <hi>Gulielmus Divina providen<g ref="char:EOLhyphen"/>tia Dei, Archiepiſtopus &amp;c.</hi> In their names muſt writs amd proces iſſue, and not in the Kings. I ſay theſe things ſhould not have beene by this Prelate defended and maintained, but rejected &amp; detected; Voted againſt as well by himſelfe as the reſt of the Lords of that Houſe, and the offenders herein as well by his endeavours as other the faithful Coun<g ref="char:EOLhyphen"/>ſellors of the State, brought to deſerved puniſh<g ref="char:EOLhyphen"/>ment: but contrarywiſe this Biſhop hath not only refuſed to conſent to the rectifying things amiſſe in the Clergie, but oppoſed the ſame; hath not one<g ref="char:EOLhyphen"/>ly beene retrograde in voting for their puniſhment that have abuſed both themſelves, profeſſions and power, but obſtinatly Voted againſt their puniſh<g ref="char:EOLhyphen"/>ment, hath not only refuſed to aſſent to regulate the office of Epiſcopacy; but likewiſe oppoſed the ſame, and in perſuance of theſe his Actions hath as it is ſtrongly to be preſumed, drawn many of the other Biſhops to be of his reſolution and evill o<g ref="char:EOLhyphen"/>pinion,
+<pb n="4" facs="tcp:100836:4"/> that the Parliament cannot conſiſt of the Houſe of <hi>Lords temporall</hi> and <hi>Commons:</hi> although they cannot produce any Preſidents or <hi>Act</hi> of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> that there was ever foure degrees congru<g ref="char:EOLhyphen"/>ent to the holding of a <hi>Parliament,</hi> as of neceſſity ſince wee profeſſed the <hi>Proteſtant Religion,</hi> and ad<g ref="char:EOLhyphen"/>mitted of a Reformation in this Kingdome, but onely in the time of Superſtition; in which time the Clergie increaſed to that height and Dignitie they are now attained unto, and procured to them<g ref="char:EOLhyphen"/>ſelves the denomination of <hi>Lords ſpirituall;</hi> but neither of late, nor (<hi>ab initio</hi>) it was ſo, onely three degrees of Councellors have beene ſufficient in <hi>Parliament</hi> to regulate the Affaires of this King<g ref="char:EOLhyphen"/>dome, and make Lawes for the good government thereof. Indeed, I confeſſe that it may be as ne<g ref="char:EOLhyphen"/>ceſſary for <hi>Biſhops</hi> to ſit in <hi>Parliament</hi> to give their advice in Points of <hi>Divinity</hi> concerning <hi>Religion,</hi> as Judges ſit there to give their opinions in Points of Law concerning judicature; but otherwiſe it is no way expedient, but altogether unneceſſary, (as I under favour conceive) either to have their Votes concerning <hi>Religion,</hi> or any wayes to inter<g ref="char:EOLhyphen"/>meddle, or give advice touching temporall Af<g ref="char:EOLhyphen"/>faires. And thus having ſhewed you the firſt ſtep to this Treaſon, their opinion of the inconſiſtencie of <hi>Parliament,</hi> without their aſſiſtance; I come to the ſecond Step; That a <hi>Parliament</hi> is forced and illegally aſſembled, if the ſame doth continue to agitate or determine of any thing whatſoever in the abſence of the <hi>Biſhops.</hi> And laſtly, which com<g ref="char:EOLhyphen"/>pletes
+<pb n="5" facs="tcp:100836:4"/> and makes up the whole Treaſon, their pro<g ref="char:EOLhyphen"/>teſtation againſt the proceedings of the <hi>Parliament</hi> in their abſence: Theſe things have beene ſuf<g ref="char:EOLhyphen"/>ficiently already debated on, and concluded by ge<g ref="char:EOLhyphen"/>neral vote to be high Treaſon. Therfore I co<g ref="char:cmbAbbrStroke">̄</g>clude, having onely ſhewed you in what manner I con<g ref="char:EOLhyphen"/>ceive is beſt to proceed to their tryall (by the rules of the Common Law joyned with the power and wiſdome of the <hi>Parliament</hi> for this their Fact of Treaſon;) and alſo ſhewed you divers of their en<g ref="char:EOLhyphen"/>ormous and wicked Actions, making much for proofe of their Ambitious and treacherous inten<g ref="char:EOLhyphen"/>tions from the beginning; humbly leaving the ſame to the further conſideration of this Honoura<g ref="char:EOLhyphen"/>ble Houſe, and deſire we may prefix a certaine day within ſome ſhort time, for the finall determinati<g ref="char:EOLhyphen"/>on of their triall.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
